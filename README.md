@@ -27,4 +27,4 @@ Aplicacion creada con React.JS consumiendo datos de la API de Rick and Morty: **
 
 ## Deploy
 
-> ..
+> https://rick-and-morty-chipax.netlify.app
